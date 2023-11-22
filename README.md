@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     
-</head> Halo! Saya [M. arif fatur rohman ]. Saya seorang [pelajar]
+</head> Halo! Saya [M. arif fatur rohman]. Saya seorang [pelajar]
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
        
